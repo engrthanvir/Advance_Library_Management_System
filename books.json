@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Python",
+        "author": "Thanvir",
+        "year": 2024,
+        "quantity": 5,
+        "lent_out": 0,
+        "isbn": "4750323028768",
+        "book_at_add": "2024-12-13 20:49:33",
+        "book_at_update": "2024-12-13 20:50:40",
+        "borrowers": []
+    },
+    {
+        "title": "C",
+        "author": "Marwah",
+        "year": 2023,
+        "quantity": 2,
+        "lent_out": 0,
+        "isbn": "8509993656545",
+        "book_at_add": "2024-12-13 20:54:50",
+        "book_at_update": null
+    }
+]
